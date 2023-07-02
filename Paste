@@ -10,3 +10,13 @@ id3ray.jagoan.vip
 trial sg
 7bf02a2d-bd53-4797-8df9-389d691cbd62
 sg3ray.jagoan.vip
+
+
+- name: id3tr.jagoan.vip
+    server: id3tr.jagoan.vip
+    port: 443
+    type: trojan
+    password: trial-Qienz1234
+    skip-cert-verify: true
+    sni: ""
+    udp: true
