@@ -20,3 +20,10 @@ sg3ray.jagoan.vip
   skip-cert-verify: true
   sni: "xl.qienz.cloud"
   udp: true
+
+
+
+	"address": "idt-1.opensvr.net",
+												"level": 8,
+												"password": "opentunnel.net-qienz",
+												"port": 443
