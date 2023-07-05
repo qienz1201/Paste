@@ -7,23 +7,7 @@ trial id3
 0a304579-0165-4e58-b88e-ced85de54078
 id3ray.jagoan.vip
 
-trial sg
-7bf02a2d-bd53-4797-8df9-389d691cbd62
-sg3ray.jagoan.vip
 
 
-- name: id3tr.jagoan.vip
-  server: id3tr.jagoan.vip
-  port: 443
-  type: trojan
-  password: trial-Qienz1234
-  skip-cert-verify: true
-  sni: "xl.qienz.cloud"
-  udp: true
-
-
-
-	"address": "idt-1.opensvr.net",
-												"level": 8,
-												"password": "opentunnel.net-qienz",
-												"port": 443
+532f0f52-a359-4296-a98c-9e9a3775564c
+idray.jagoan.vip
